@@ -66,3 +66,6 @@ build*/
 test_data/wmag256.float
 test_data/wmag512.float
 test_data/wmag500.float
+
+# install dir 
+install*/
